@@ -6,7 +6,12 @@
   * Node
 #### This also includes smaller subskills like relational databases, object oriented programming, and React/Redux
 
-[GitHub](http://github.com)
+- 🌱 I’m currently learning Python and Computer Science Theories
+
+
+##### You can find me on the interwebs at:
+ * [Twitter](http://twitter.com/KeyericB)
+ * [LinkedIn] (https://www.linkedin.com/in/keyeric/)
 
 <!--
 **Keyeric/Keyeric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +19,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
