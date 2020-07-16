@@ -1,4 +1,10 @@
-### Hi there 👋
+# Welcome to Key's Github 👨🏿‍💻
+## Full Stack Software Developer In Training
+### Technical Skills include: 
+  * Python
+  * JavaScript
+  * Node
+#### This also includes smaller subskills like relational databases, object oriented programming, and React/Redux
 
 <!--
 **Keyeric/Keyeric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
