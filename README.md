@@ -11,7 +11,8 @@
 
 ##### You can find me on the interwebs at:
  * [Twitter](http://twitter.com/KeyericB)
- * [LinkedIn] (https://www.linkedin.com/in/keyeric/)
+ * [LinkedIn](https://www.linkedin.com/in/keyeric/)
+ * [Portfolio](https://keyeric.com) (This is a perfect example of a cyclic graph 🤓)
 
 <!--
 **Keyeric/Keyeric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
