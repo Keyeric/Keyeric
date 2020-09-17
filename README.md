@@ -23,7 +23,7 @@ and I marched in **Southern University and A&M College's _Human Jukebox_ Marchin
   * Node
 #### This also includes smaller subskills like relational databases, object oriented programming, and React/Redux
 
-- 🌱 I’m currently learning Interview Prep and Code Challenges
+- 🌱 I’m currently working on improving my Interviewing and Job Searching
 
 
 ##### You can find me on the interwebs at:
