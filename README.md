@@ -18,7 +18,7 @@ As far as qualifications go, I have skated since I was around 7, even worked at 
 and I marched in **Southern University and A&M College's _Human Jukebox_ Marching Band**, one of (_if not the_) the best HBCU Marching Bands in the _world_.
    
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyeric)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyeric&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 ### Technical Skills include: 
   * Python
   * JavaScript
