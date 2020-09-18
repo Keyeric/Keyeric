@@ -1,5 +1,5 @@
 # Welcome to Keyeric's Github 👨🏿‍💻
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keyeric&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keyeric&include_all_commits=true&count_private=true&show_icons=true&theme=dark&icon_color=#660000)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Full Stack Software Developer In Training
 
