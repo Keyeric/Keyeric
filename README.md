@@ -1,4 +1,6 @@
 # Welcome to Keyeric's Github 👨🏿‍💻
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keyeric)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Full Stack Software Developer In Training
 
 Hi guys! My name is Key (like a house key) and I'm a developer.  
