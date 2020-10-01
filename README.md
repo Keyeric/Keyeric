@@ -15,7 +15,7 @@ I also have my own youtube channel that I have to get better at doing consistent
 - I am, as the kids say, a hardcore Gamer. I enjoy RPG titles the most but I'm not against kicking back with an FPS every once in a while.
 - My favorite hobbies are roller skating and playing trumpet.  
 As far as qualifications go, I have skated since I was around 7, even worked at Sonic Drive In for a bit,  
-and I marched in **Southern University and A&M College's _Human Jukebox_ Marching Band**, one of (_if not the_) the best HBCU Marching Bands in the _world_.
+and I played trumpet in **Southern University and A&M College's _Human Jukebox_ Marching Band**, one of (_if not the_) the best HBCU Marching Bands in the _world_.
    
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyeric&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
