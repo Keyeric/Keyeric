@@ -4,13 +4,13 @@
 ## Full Stack Software Developer In Training
 
 Hi guys! My name is Key (like a house key) and I'm a developer.  
-My code passion lies with technologial advancements and helping push the world into the future we see in The Jetsons  
+My code passion lies with technological advancements and helping push the world into the future we see in The Jetsons  
 Now that we've got the obvious out of the way, a little about myself: 
 
 - ⚡ **_Pronunciation_**: Key - air - ick  
 _I hate having to put this here but 24 years on this planet tells me I have to. It is pronounced, the way it is spelled._
 - I'm a media specialist, with experience in photography, videography and some light audio work  
-(I've also worked professionally using a Blackmagic Design ATEM Televison Studio Pro HD)  
+(I've also worked professionally using a Blackmagic Design ATEM Television Studio Pro HD)  
 I also have my own youtube channel that I have to get better at doing consistently.
 - I am, as the kids say, a hardcore Gamer. I enjoy RPG titles the most but I'm not against kicking back with an FPS every once in a while.
 - My favorite hobbies are roller skating and playing trumpet.  
